@@ -17,3 +17,16 @@ important thing is to have fully working app live.
 Front-end part will be open-sourced.
 
 **Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
+
+### Day 2: 2017-01-17
+
+**Today's Progress**: Configured webpack, babel, added clientApp navBar react
+components.
+
+**Thoughts:** Well, it's seems that everything on front-end moves at the speed
+of light. But it seems, it's not so hard to catch up.
+Making ideas real it's not so easy task it seems, but challenge accepted and I
+will continue on this project because it's fun and makes things different for me
+and eventually for others too.
+
+**Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
