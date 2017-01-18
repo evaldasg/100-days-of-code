@@ -30,3 +30,16 @@ will continue on this project because it's fun and makes things different for me
 and eventually for others too.
 
 **Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
+
+### Day 3: 2017-01-18
+
+**Today's Progress**: Add all pages with initial mark-up, routes, navigation.
+
+**Thoughts:** Now it's almost ready to have some useful stuff. React is really
+great framework. And the whole eco-system is awesome. Webpack - great. One of
+the hardest thing is how everything should look like, how every part should
+interact with each other. Coding is not just writing code. It's a lot more to
+it. I'm thinking to go for Django on back-end, not sure 100%, though. Will check
+the web what it has to say more about back-end frameworks.
+
+**Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
