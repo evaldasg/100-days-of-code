@@ -43,3 +43,15 @@ it. I'm thinking to go for Django on back-end, not sure 100%, though. Will check
 the web what it has to say more about back-end frameworks.
 
 **Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
+
+### Day 4: 2017-01-19
+
+**Today's Progress**: Add jest and expenses.spec.js.
+
+**Thoughts:** Today's discovery was jest, and relay.
+I'm out of the game also because I won't share my backend where I have done some job
+today. Designing your application is really a challenge. But I manage to
+structure expenses data in database. I also switched to node.js in backend. Fun
+stuff waits. And I can't wait what tomorrow will bring :)
+
+**Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
