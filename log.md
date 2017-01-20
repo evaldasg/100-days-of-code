@@ -55,3 +55,14 @@ structure expenses data in database. I also switched to node.js in backend. Fun
 stuff waits. And I can't wait what tomorrow will bring :)
 
 **Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
+
+### Day 5: 2017-01-20
+
+**Today's Progress**: Add expenses table, new button, data file.
+
+**Thoughts:** Yes, baby. It's getting shape now. Today I was more designer
+rather then coder. Choosing the colors palette is real thing. For me it took
+some time. But nice looking things is a must for me (suddenly I've realized
+it). And yes, today I have 5% of 100 days finished :)
+
+**Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
