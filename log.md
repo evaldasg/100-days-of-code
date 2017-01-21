@@ -66,3 +66,12 @@ some time. But nice looking things is a must for me (suddenly I've realized
 it). And yes, today I have 5% of 100 days finished :)
 
 **Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
+
+### Day 6: 2017-01-21
+
+**Today's Progress**: I wrote a lot of algorithms.
+
+**Thoughts:** Yes, today was coding on algorithms. I even implemented Hans Peter
+Luhn's algorithm for checking is credit card's number is valid.
+
+**Link to work**: some place in the cloud (cloud9 is called).
