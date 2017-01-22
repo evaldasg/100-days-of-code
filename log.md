@@ -75,3 +75,12 @@ it). And yes, today I have 5% of 100 days finished :)
 Luhn's algorithm for checking is credit card's number is valid.
 
 **Link to work**: some place in the cloud (cloud9 is called).
+
+### Day 7: 2017-01-22
+
+**Today's Progress**: Add expenses new page.
+
+**Thoughts:** First week done. It's time to connect the app to the server. I'll
+it be ready on the next week.
+
+**Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
