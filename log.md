@@ -84,3 +84,11 @@ Luhn's algorithm for checking is credit card's number is valid.
 it be ready on the next week.
 
 **Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
+
+### Day 8: 2017-01-23
+
+**Today's Progress**: Learned a bit of regex in js.
+
+**Thoughts:** I'm not a master of regex, but today I was struggling with regex
+for one algorithm. At the end I came up with a solution, but I'm sure it can be
+  optimized. Though, I didn't code for dukiki app...
