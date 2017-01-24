@@ -92,3 +92,11 @@ it be ready on the next week.
 **Thoughts:** I'm not a master of regex, but today I was struggling with regex
 for one algorithm. At the end I came up with a solution, but I'm sure it can be
   optimized. Though, I didn't code for dukiki app...
+
+### Day 9: 2017-01-24
+
+**Today's Progress**: Worked on backend. I'll push it to live
+
+**Thoughts:** Choose framework isn't hard. It's mission impossible. But at least
+I came up with a solution and in couple of days I hope to have this app on
+line.
