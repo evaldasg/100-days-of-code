@@ -100,3 +100,14 @@ for one algorithm. At the end I came up with a solution, but I'm sure it can be
 **Thoughts:** Choose framework isn't hard. It's mission impossible. But at least
 I came up with a solution and in couple of days I hope to have this app on
 line.
+
+### Day 10: 2017-01-25
+
+**Today's Progress**: Added couple mockup pages (budgets, categories)
+
+**Thoughts:** Wow. 10% of challenge is done. Just kidding, all just begins.
+Putting that idea, which I had in my had for months, to live is awesome, is exciting, is
+extremely great feeling. I'm happy with that and I hope to keep it that way. At
+least when I loose my track and motivation will fall to the nearest bottom, just
+read this and KEEP MOVING FORWARD. And only FORWARD. (to my self: who else gonna
+do this if not you?)
