@@ -111,3 +111,12 @@ extremely great feeling. I'm happy with that and I hope to keep it that way. At
 least when I loose my track and motivation will fall to the nearest bottom, just
 read this and KEEP MOVING FORWARD. And only FORWARD. (to my self: who else gonna
 do this if not you?)
+
+### Day 11: 2017-01-26
+
+**Today's Progress**: Added expressjs
+
+**Thoughts:** I've played around with universal rendering and I don't get it
+still...
+
+**Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
