@@ -120,3 +120,11 @@ do this if not you?)
 still...
 
 **Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
+
+### Day 12: 2017-01-27
+
+**Today's Progress**: App is online (db isn't connected for the moment)
+
+**Thoughts:** At last app is online. Domain is VSP though, but it's coming next.
+
+**Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
