@@ -128,3 +128,12 @@ still...
 **Thoughts:** At last app is online. Domain is VSP though, but it's coming next.
 
 **Link to work**: [Dukikik App](https://github.com/evaldasg/dukikik)
+
+### Day 13: 2017-01-31
+
+**Today's Progress**: Add favicon. Setup dukiki.com domain.
+
+**Thoughts:** Life is tough. But I'm back on track. At last app has it's domain
+address.
+
+**Link to work**: [Dukikik App](http://www.dukiki.com)
