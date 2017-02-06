@@ -137,3 +137,15 @@ still...
 address.
 
 **Link to work**: [Dukikik App](http://www.dukiki.com)
+
+### Day 14: 2017-02-05
+
+**Today's Progress**: Add private backend repo. Split the project.
+
+**Link to work**: [Dukikik App](https://dukiki.com)
+
+### Day 15: 2017-02-06
+
+**Today's Progress**: Webpack configuration.
+
+**Link to work**: [Dukikik App](https://dukiki.com)
